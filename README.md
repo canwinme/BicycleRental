@@ -97,9 +97,6 @@ BicycleRental/
 ```bash
 pip install -r requirements.txt
 ```
-
-> Google Colab에서는 CSV를 포함한 `data` 폴더를 런타임에 올리거나, 드라이브 경로에 맞춰 `pd.read_csv()` 경로를 수정해야 합니다.
-
 ## 출처
 
 - [UCI Machine Learning Repository — Bike Sharing Dataset](https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset)
