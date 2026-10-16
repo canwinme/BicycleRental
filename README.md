@@ -1,4 +1,4 @@
-# Bicycle Rental Demand Prediction 🚲
+# Bicycle Rental Demand Prediction 
 
 날씨, 시간대, 요일 등 자전거 이용 환경 데이터를 분석해 **시간대별 공공자전거 대여량을 예측**하고, 두 회귀 모델의 성능 및 주요 예측 요인을 비교한 머신러닝 프로젝트입니다.
 
